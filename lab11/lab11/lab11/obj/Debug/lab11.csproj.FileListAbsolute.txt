@@ -1,0 +1,16 @@
+D:\DBinWEBapps\lab11\lab11\lab11\bin\Debug\lab11.exe.config
+D:\DBinWEBapps\lab11\lab11\lab11\bin\Debug\lab11.exe
+D:\DBinWEBapps\lab11\lab11\lab11\bin\Debug\lab11.pdb
+D:\DBinWEBapps\lab11\lab11\lab11\bin\Debug\EntityFramework.dll
+D:\DBinWEBapps\lab11\lab11\lab11\bin\Debug\EntityFramework.SqlServer.dll
+D:\DBinWEBapps\lab11\lab11\lab11\bin\Debug\System.Data.SQLite.dll
+D:\DBinWEBapps\lab11\lab11\lab11\bin\Debug\System.Data.SQLite.EF6.dll
+D:\DBinWEBapps\lab11\lab11\lab11\bin\Debug\System.Data.SQLite.Linq.dll
+D:\DBinWEBapps\lab11\lab11\lab11\bin\Debug\EntityFramework.xml
+D:\DBinWEBapps\lab11\lab11\lab11\bin\Debug\EntityFramework.SqlServer.xml
+D:\DBinWEBapps\lab11\lab11\lab11\bin\Debug\System.Data.SQLite.xml
+D:\DBinWEBapps\lab11\lab11\lab11\obj\Debug\lab11.csprojAssemblyReference.cache
+D:\DBinWEBapps\lab11\lab11\lab11\obj\Debug\lab11.csproj.CoreCompileInputs.cache
+D:\DBinWEBapps\lab11\lab11\lab11\obj\Debug\lab11.csproj.CopyComplete
+D:\DBinWEBapps\lab11\lab11\lab11\obj\Debug\lab11.exe
+D:\DBinWEBapps\lab11\lab11\lab11\obj\Debug\lab11.pdb
